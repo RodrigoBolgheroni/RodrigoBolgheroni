@@ -8,4 +8,15 @@ Atualmente, foco meus estudos em Cyber Segurança e Inteligência Artificial, se
 ## Estou aprendendo  
 <a href="https://github.com/rodrigobolgheroni"><img src="https://skillicons.dev/icons?i=ai,pytorch,tensorflow,spring,bash"></a>
 
+
+### Estatísticas
+
+<p style="display: flex; align-items: center;">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBolgheroni&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
 <br><br>
