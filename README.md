@@ -20,18 +20,4 @@ Atualmente, foco meus estudos em Cyber Segurança e Inteligência Artificial, se
 
 ### 🌐 Web  
 [![Spring](https://img.shields.io/badge/Spring-%2366C55E.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)  [![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
-
-
-
-### Estatísticas
-
-<p style="display: flex; align-items: center;">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBolgheroni&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
-  />
-</p>
-
 <br><br>
