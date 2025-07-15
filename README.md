@@ -3,10 +3,29 @@ Programo desde os 7 anos, com o objetivo de criar soluções que causem impacto.
 Atualmente, foco meus estudos em Cyber Segurança e Inteligência Artificial, sempre me desafiando com novos projetos e tecnologias.
 
 ## Habilidades  
-<a href="https://github.com/rodrigobolgheroni"><img src="https://skillicons.dev/icons?i=html,css,js,python,sklearn,java,cs,cpp,php,mysql,postgres,docker,git,linux,azure"></a>
+### 🚀 Linguagens de Programação
+<a href="https://github.com/rodrigobolgheroni"> <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,php" /> </a>
+### 🌐 Frameworks Web
+<a href="https://github.com/rodrigobolgheroni"> <img src="https://skillicons.dev/icons?i=spring,django,dotnet,express,fastapi,flask,nextjs,nodejs" /> </a>
+### 🧠 Frameworks de IA
+<a href="https://github.com/rodrigobolgheroni"> <img src="https://skillicons.dev/icons?i=sklearn,selenium,tensorflow" /> </a>
+### 🗃️ Banco de Dados
+<a href="https://github.com/rodrigobolgheroni"> <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" /> </a>
+### ☁️ Tecnologias e Ferramentas
+<a href="https://github.com/rodrigobolgheroni"> <img src="https://skillicons.dev/icons?i=git,docker,linux,azure,vscode,redhat,postman" /> </a>
+### 🌐 Web
+<a href="https://github.com/rodrigobolgheroni"> <img src="https://skillicons.dev/icons?i=html,css" /> </a>
 
 ## Estou aprendendo  
-<a href="https://github.com/rodrigobolgheroni"><img src="https://skillicons.dev/icons?i=ai,pytorch,tensorflow,spring,bash"></a>
+## 📚 Estou estudando — IA e Ciência de Dados
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-%23000000.svg?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
 
 
 ### Estatísticas
@@ -15,7 +34,7 @@ Atualmente, foco meus estudos em Cyber Segurança e Inteligência Artificial, se
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBolgheroni&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBolgheroni&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 </p>
 
